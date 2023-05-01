@@ -1,7 +1,11 @@
 # Calculator
-Designed a calculator using HTML, CSS, and Javascript in which different operations are performed by creating an interacting interface.
-Features:-
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
+Create a responsive webpage using HTML, CSS and JavaScript.
+the main feature of this website are:
+
+✔ responsive header / navbar with toggle menu bar effect.
+✔ responsive home / hero section.
+✔ responsive about section using flexbox.
+✔ responsive course section using flexbox.
+✔ responsive about section.
+✔ responsive contact section using flexbox.
+✔ responsive footer section section using flexbox.
