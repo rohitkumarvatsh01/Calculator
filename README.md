@@ -1,4 +1,4 @@
-# Calculator
+# Calculator-
 A simple calculator built using HTML, CSS and JavaScript.<br>
 
 Controls / Functionality
