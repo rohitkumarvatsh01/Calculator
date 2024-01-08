@@ -1,5 +1,6 @@
 # Calculator-
-A simple calculator built using HTML, CSS and JavaScript.<br>
+A simple calculator built using HTML, CSS and JavaScript.
+<br>
 
 Controls / Functionality
 <li>Can be controlled using either mouse / touchscreen or by using the keyboard pressing the corresponding keys.
